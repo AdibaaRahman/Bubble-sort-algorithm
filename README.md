@@ -26,3 +26,26 @@ It’s called “bubble” sort because the largest elements "bubble up" to the 
 ### ▶️ Run the script
 ```bash
 python bubble_sort.py
+
+
+---
+
+## 📸 Output Screenshot
+
+![Output Screenshot](images/output.png)
+
+---
+
+## 👩‍💻 Author
+
+Made with 💙 by **Adiba Rahman**  
+📧 adibarahmanwarsiii@gmail.com  
+🌐 [My Portfolio](https://adibaarahman.github.io)  
+🐱‍💻 [GitHub](https://github.com/AdibaaRahman)
+
+---
+
+## 📜 License
+
+This project is open-source and free to use.  
+
