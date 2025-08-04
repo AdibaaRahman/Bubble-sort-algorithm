@@ -31,8 +31,9 @@ python bubble_sort.py
 
 ## 📸 Output Screenshot
 
-![Output Screenshot](images/output.png)
+Here's the sample output of the optimized bubble sort program:
 
+![Bubble Sort Output](images/bubble_sort_output.png)
 
 ---
 
