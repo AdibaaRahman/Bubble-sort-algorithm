@@ -24,8 +24,9 @@ It’s called “bubble” sort because the largest elements "bubble up" to the 
 - Python installed (version 3 or above)
 
 ### ▶️ Run the script
+
 ```bash
-python bubble_sort.py```
+python bubble_sort.py
 
 ---
 
@@ -48,5 +49,4 @@ Made with 💙 by **Adiba Rahman**
 
 ## 📜 License
 
-This project is open-source and free to use.  
-
+This project is open-source and free to use.
