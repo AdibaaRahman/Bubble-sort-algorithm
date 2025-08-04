@@ -27,7 +27,7 @@ It’s called “bubble” sort because the largest elements "bubble up" to the 
 
 ```bash
 python bubble_sort.py
-```  <!-- ✅ THIS LINE WAS MISSING EARLIER! -->
+```  
 
 ---
 
